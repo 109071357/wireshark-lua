@@ -1,6 +1,7 @@
 # wireshark-lua
 用来进行流量研判的脚本（熵值检测）
 下载Entropy.lua放入wireshark插件中
+
 wireshark → Help → About Wireshark → Folders → "Personal Lua Plugins"。把 Entropy.lua 放这里
 
 最后重启wireshark即可在info列看到熵值
